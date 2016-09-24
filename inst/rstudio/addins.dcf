@@ -1,0 +1,4 @@
+Name: SuccincteR
+Description: Creates a .R file from a .Rmd file with just R code
+Binding: convertToR
+Interactive: false

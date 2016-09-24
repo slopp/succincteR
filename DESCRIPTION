@@ -1,11 +1,15 @@
 Package: succincteR
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Creates.R File From .Rmd Code Chunks
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Sean Lopp
+Maintainer: Sean Lopp <sean@rstudio.com>
+Description: An addin that parses an .Rmd file and returns the R code from the R code chunks in a single .R file.
+License: Apache License 2.0
 Encoding: UTF-8
 LazyData: true
+Imports:
+    knitr,
+    rstudioapi,
+    tools
+RoxygenNote: 5.0.0
