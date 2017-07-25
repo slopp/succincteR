@@ -1,7 +1,7 @@
 Package: succincteR
 Type: Package
 Title: Creates.R File From .Rmd Code Chunks
-Version: 0.1.0
+Version: 0.2.0
 Author: Sean Lopp
 Maintainer: Sean Lopp <sean@rstudio.com>
 Description: An addin that parses an .Rmd file and returns the R code from the R code chunks in a single .R file.
