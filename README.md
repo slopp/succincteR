@@ -9,7 +9,7 @@ This addin calls `knitr::purl` on the active .Rmd file and generates a .R file o
 If you have a test.Rmd file containing the following:
 
 ***
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pellentesque leo sit amet rhoncus imperdiet. Sed ultricies erat arcu, posuere posuere dui fringilla ac. Vivamus luctus, leo sit amet vehicula tempor, justo elit laoreet sem, quis pretium justo turpis nec leo. Integer id mattis mi, vitae consectetur urna. Sed laoreet ut dui eu gravida. Maecenas mi purus, laoreet a quam nec, pellentesque vestibulum mi. Quisque ac venenatis dui. Quisque consequat sapien quis ornare hendrerit. Etiam lobortis eros vitae elit consequat, non ullamcorper enim feugiat. Nam nec arcu vel neque lobortis ullamcorper vitae eget metus. Mauris vitae posuere nunc. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pellentesque leo sit amet rhoncus imperdiet. Sed ultricies erat arcu, posuere posuere dui fringilla ac. Vivamus luctus, leo sit amet vehicula tempor, justo elit laoreet sem, quis pretium justo turpis nec leo. Integer id mattis mi, vitae consectetur urna. Sed laoreet ut dui eu gravida. Maecenas mi purus, laoreet a quam nec, pellentesque vestibulum mi. Quisque ac venenatis dui. Quisque consequat sapien quis ornare hendrerit. Etiam lobortis eros vitae elit consequat, non ullamcorper enim feugiat. Nam nec arcu vel neque lobortis ullamcorper vitae eget metus. Mauris vitae posuere nunc.  Lotsmore info here.
 
 
 
